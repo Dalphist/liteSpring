@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beas>
+	<bean id="petstore" 
+		class="org.litespring.service.v1.PetStoreService">
+	</bean>
+</beas>
